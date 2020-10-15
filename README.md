@@ -1,4 +1,6 @@
-# Time-Series-Database-Managment-SystemThese are steps to run the program in the Python Program Folder.
+# Time-Series-Database-Managment-System
+
+###These are steps to run the program in the Python Program Folder.
 
 1. Install MySQL to the local computer.
      1.1 Download MySQL Server with this link: https://dev.mysql.com/downloads/mysql/ 
