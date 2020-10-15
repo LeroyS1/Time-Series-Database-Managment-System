@@ -9,13 +9,12 @@
 2. Go to the file "config.ini", and then change the password = 'your root password'
 
 3. Open Terminal and go to the program's directory and run:
-     $ python3 scripts.py
-
+     `$ python3 scripts.py`
 	- This "scripts.py" will install the required packages for this program. 
-     - It also will create empty databases and tables for the first time.
+     	- It also will create empty databases and tables for the first time.
 
 4. Then, if everything is good, just run:
-     $ python3 MainMenu.py
+     `$ python3 MainMenu.py`
 
 5. Every time you want to run the program, you go to step 4. You do not need to run step 3 because if you run step 3 again, 
 all the old databases, tables, and data will be overwritten.
@@ -24,8 +23,7 @@ all the old databases, tables, and data will be overwritten.
 *Notes: - This program like a toy for a time series database management system. This program is recommended for people who do not know anything about
           SQL or Python. They just need to enter data, search data, and update data through this program. They will not interact with any Python
           and SQL code.
-
-      - If someone knows about SQL, they can use sql files in the MySQL folder. Those files contain MySQL statements
+      	- If someone knows about SQL, they can use sql files in the MySQL folder. Those files contain MySQL statements
 
 
 ====================================================================================================
